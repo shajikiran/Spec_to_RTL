@@ -1,5 +1,9 @@
 STDOUT:
-PASS
+MISMATCH at bit 11: expected=0 got=1
+MISMATCH at bit 10: expected=1 got=0
+MISMATCH at bit 7: expected=0 got=1
+MISMATCH at bit 6: expected=1 got=0
+FAIL: 4 mismatches
 tb/iclad_seq_detector_tb.v:46: $finish called at 18600 (1ps)
 
 STDERR:

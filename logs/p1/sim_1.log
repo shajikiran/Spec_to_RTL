@@ -1,5 +1,5 @@
 STDOUT:
-Test PASSED!
-tb/iclad_seq_detector_tb.v:44: $finish called at 165 (1s)
+PASS
+tb/iclad_seq_detector_tb.v:46: $finish called at 18600 (1ps)
 
 STDERR:
